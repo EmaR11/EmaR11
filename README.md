@@ -5,7 +5,8 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Técnico Superior en Análisis de Sistemas de Información.
+🎓 - Técnico Superior en Análisis de Sistemas de Información.
+    - Desarrollador Full-Stack.
 
 💻 Apasionado por la tecnología, el desarrollo de software y el diseño multimedia
 
